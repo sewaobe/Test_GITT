@@ -20,6 +20,13 @@ namespace Test_git
         private void Form1_Load(object sender, EventArgs e)
         {
             //quangthanh
+            //test1
+            //chua chac da duoc
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
